@@ -1,1 +1,1 @@
-# snippets_c-c++
+# Laboratórios de estudos em C/C++/C#
